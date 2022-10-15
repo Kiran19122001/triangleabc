@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author kiran
- *
- */
-module startpattern {
-}
